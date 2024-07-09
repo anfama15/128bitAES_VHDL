@@ -1,6 +1,4 @@
-# Save the README content to a readme.md file
 
-readme_content = """
 # AES Encryption and Decryption Modules
 
 This repository contains VHDL implementations of various modules used in the Advanced Encryption Standard (AES) algorithm. These modules support both encryption and decryption processes.
