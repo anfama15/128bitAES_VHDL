@@ -105,10 +105,3 @@ Top-level module for AES decryption, utilizing the AES_ENC component with an add
 
 ### Functionality
 - Reuses AES_ENC component for decryption with an additional control signal.
-"""
-
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
